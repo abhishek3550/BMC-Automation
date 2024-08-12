@@ -14,3 +14,4 @@ Logout and Cleanup: The script gracefully logs out and closes the browser sessio
 Python 3.x
 Selenium WebDriver
 Firefox WebDriver (GeckoDriver) or ChromeDriver, depending on the browser you wish to use.
+![A](https://github.com/user-attachments/assets/7d00e1f8-16aa-4c41-b6a1-4fedb5606e0b)
